@@ -9,7 +9,7 @@
 // console.log('server on port ${3000}')
 const express = require('express')
 
-const app = express 
+const app = express ()
 //.get sirve que par cuando haya un a ruta  enviara con:
 //res.send un mesaje 
 //.sendfile un archivo ej un  html 
